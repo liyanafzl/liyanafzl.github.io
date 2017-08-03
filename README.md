@@ -12,5 +12,12 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 
 
-##DAY 1
+###DAY 1
+
+Day 1 went well with the introduction. We got an overview of how the two weeks are going to be spent at FABLAB. 
+
+###DAY 2 
+
+Today we learnt how we could document our work and experiences through github pages and how we could essentially use them in the future.
+A few softwares were installed which would be useful in the fabrication lab.
 
