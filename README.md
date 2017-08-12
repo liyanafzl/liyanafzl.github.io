@@ -9,7 +9,7 @@ Email ID : liyana.fzl@gmail.com
 ### FABLAB at MESCE
 
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality.  It consists of a lot of machine such as the 3D printer, CNC, laser cutter/engraver and others too. I will be sharing their images later.
-![FABLAB class](blob:https://web.whatsapp.com/55956a0c-4637-4c29-94e2-1a5d88ddbb85)
+![FABLAB class](/images/photo_2017-08-03_19-44-53.jpg)
 
 
 
