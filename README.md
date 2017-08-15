@@ -46,6 +46,7 @@ This is the one and only 3D printer. I was fascinated by this machine whenI lear
 
 The one below is the CNC cutting / PCB milling machine.
 
+![FABLAB class](/images/)
 
 
 
