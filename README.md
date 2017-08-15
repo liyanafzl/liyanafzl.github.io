@@ -10,7 +10,7 @@ Email ID : liyana.fzl@gmail.com
 
 FABLAB is a 3D fabrication lab that has been recently set up at our college. It is completely amazing considering the possibilities of turning imagination to reality. It consists of a lot of machines such as the 3D printer, CNC, laser cutter/engraver and others too. I am in the process of diving into the depths of knowledge of how we could turn one's imagination to reality. Actually this seems no less than magic. Atleast that is how I feel. So, here I am to share my experience at FABLAB, MESCE. I hope that anyone who goes through this will get an idea about the technology used in a 3D fabrication lab. Well ... explore and have fun.
 
-![FABLAB class](/images/photo_2017-08-03_19-44-53.jpg)
+
 
 ### Course contents
 
@@ -39,6 +39,8 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 Day 1 went well with the introduction. We got an overview of how the seven days were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more .
 
 Here are some of the machines set up at our FABLAB. 
+
+This is the one and only 3D printer. I was fascinated by this machine whenI learnt how we could transform 2D images( in STL format) to an actual 3D object.
 
 ![FABLAB class](/images/photo_2017-08-03_19-44-53.jpg)
 
