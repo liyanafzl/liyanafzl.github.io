@@ -82,7 +82,8 @@ We also created accounts in various sites that may be useful :
 Today we learnt how to use the AutoCAD software in order to make blueprints for our designs in mind. We used Rhinoceros Corporate (version for 64-bit OS).
 First of all 2D shapes can be constructed easily by the given tools. In order to convert a 2D image to 3D image we use the following command:
 
-** COMMAND : ** *ExtrudeCrv *
+** COMMAND : ** 
+*ExtrudeCrv *
 
 The required dimensions can be given.
 
