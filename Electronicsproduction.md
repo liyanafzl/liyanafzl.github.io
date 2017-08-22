@@ -37,15 +37,15 @@ This format is : <B>SBT File Format</B>
 
 All you have to do after your design in png format is ready is , visit [fabmodules](http://fabmodules.org/)
 Follow the steps given below.
-![ec1](/images/ec1.png)
+![ec1](/images/ec1.PNG)
 
-![ec2](/images/ec2.png)
+![ec2](/images/ec2.PNG)
 
-![ec3](/images/ec3.png)
+![ec3](/images/ec3.PNG)
 
-![ec4](/images/ec4.png)
+![ec4](/images/ec4.PNG)
 
-![ec5](/images/ec5.png)
+![ec5](/images/ec5.PNG)
 While setting the dimensions make sure it is in mm. 
 Tip: Give negative value for bottom z dimension.
 
