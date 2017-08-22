@@ -42,6 +42,8 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 * CutShop
 
+* ShopBot 3
+
 ###### Resources that can be used
 
 * GrabCAD
@@ -69,7 +71,7 @@ Here you can view my course progress. I have described the activities done, thin
 * [ Introduction to FABLAB](http://liyanafzl.github.io/day-1)
 * [ Github Pages and Documentation](http://liyanafzl.github.io/githubpages)
 * [ Electronics Production and CNC](http://liyanafzl.github.io/Electronicsproduction)
-* [Vinyl Cutting](http://liyanafzl.github.io/day-4)
+* [Vinyl Cutting](http://liyanafzl.github.io/vinylcutting)
 * [Screen Printing](http://liyanafzl.github.io/day-5)
 * [3D Printing](http://liyanafzl.github.io/day-6)
 * [Laser cutting](http://liyanafzl.github.io/day-7)
