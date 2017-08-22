@@ -34,7 +34,7 @@ The image must be preferably gray scale to get the accurate design.
 * Now you can adjust the size of vinyl to be used : Right click on the image and select Properties. ( The size is in mm .)
 * Your design is ready to be cut. Set the machine appropriately as follows:
 
-![Vinyl](/images/vc7.jpg)
+![Vinyl](/images/vc8.png)
 
 >Press the power button. The white head moves and places itself at the end. Insert the vinyl sheet.
 >Now you can see 2 heads that can be moved. This is used to set the working area on the vinyl sheet. Move these heads and make sure that it lies below any of the places marked by the white sticker.
