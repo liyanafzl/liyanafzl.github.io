@@ -73,8 +73,8 @@ Here you can view my course progress. I have described the activities done, thin
 * [ Electronics Production and CNC](http://liyanafzl.github.io/Electronicsproduction)
 * [Vinyl Cutting](http://liyanafzl.github.io/vinylcutting)
 * [Screen Printing](http://liyanafzl.github.io/day-5)
-* [3D Printing](http://liyanafzl.github.io/day-6)
-* [Laser cutting](http://liyanafzl.github.io/day-7)
+* [3D Printing](http://liyanafzl.github.io/3Dprinting)
+* [Laser cutting](http://liyanafzl.github.io/laser)
 
 
 
