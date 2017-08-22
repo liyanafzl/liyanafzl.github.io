@@ -65,7 +65,7 @@ A few softwares were installed which would be useful in the fabrication lab. Som
 * AutoCAD ( Ex. : EagleCAD, Rhinoceros)
 It is used for creating blueprints for our designs in mind.
 
-![FABLAB class](/images/Rhino.jpg)
+![FABLAB class](/images/autocad1.png)
 * Cura 
 It is a 3D printing slicing application. This is the software that is used to turn our design image into a format that can be used by the 3D printer to print the corresponding 3D object. 
 ![FABLAB class](/images/cura.jpg)
