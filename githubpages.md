@@ -14,6 +14,9 @@ Maintaining github pages is pretty simple. All you have to do is to follow a few
 
 ![GitHub Logo](/images/githubpage.png)
 
+3.Name your repository username.github.io, replacing username with your GitHub username. Be sure it is public and go ahead and tell GitHub to create a README file upon generating the repo.
+
+![GitHub Logo](/images/gp2.png)
 
 
 
