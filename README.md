@@ -16,9 +16,9 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 ### Course contents
 
-###### DAY 1 : Introduction to Fablab 
+* DAY 1 : Introduction to Fablab 
 
-###### Day 2 : Github Pages and Documentation
+* Day 2 : Github Pages and Documentation
                                
 ###### Day 3 : Electronics Production and CNC
                                 
