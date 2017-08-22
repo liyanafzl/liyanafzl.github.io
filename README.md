@@ -16,23 +16,35 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 ### Course contents
 
-* DAY 1 : Introduction to Fablab 
+*  Introduction to Fablab 
 
-* Day 2 : Github Pages and Documentation
+*  Github Pages and Documentation
                                
-###### Day 3 : Electronics Production and CNC
+*  Electronics Production and CNC
                                 
-###### DAY 4 : Vinyl Cutting
+*  Vinyl Cutting
                                 	
-###### DAY 5 : Screen Printing
+*  Screen Printing
                                 	
-###### DAY 6 : 3D Printing
+*  3D Printing
                                 
-###### Day 7 : Laser Cutting,Moulding and Casting
+*  Laser Cutting,Moulding and Casting
                                 
-###### Project
+*  Project
 
 *Instructor : Mr. Jaseel Muhammed*
+
+### Course Progress
+
+Here you can view my course progress. I have described the activities done, things learned  on each day.
+
+* [DAY 1](http://github.com)
+* DAY 2
+* DAY 3
+* DAY 4
+* DAY 5
+* DAY 6
+* DAY 7
 
 
 
