@@ -34,12 +34,40 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 *Instructor : Mr. Jaseel Muhammed*
 
+### Softwares Required
+
+* AutoCAD ( I used Rhinoceroes Corporate(64-bit ))
+
+* Cura
+
+* CutShop
+
+###### Resources that can be used
+
+*GrabCAD
+
+*vimeo ( for sharing videos)
+
+*Instructables
+
+*Thingiverse
+
+*Inkscape
+
+*Makerspace
+
+*fabmodules
+
+
+
+
+
 ### Course Progress
 
 Here you can view my course progress. I have described the activities done, things learned  on each day.
 
-* [DAY 1](http://liyanafzl.github.io/day-1)
-* [DAY 2](http://liyanafzl.github.io/day-2)
+* [DAY 1 : Introduction to FABLAB](http://liyanafzl.github.io/day-1)
+* [DAY 2 : Github Pages and Documentation](http://liyanafzl.github.io/day-2)
 * [DAY 3](http://liyanafzl.github.io/day-3)
 * [DAY 4](http://liyanafzl.github.io/day-4)
 * [DAY 5](http://liyanafzl.github.io/day-5)
