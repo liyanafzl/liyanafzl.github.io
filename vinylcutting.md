@@ -10,7 +10,7 @@ So, you could say vinyl cutting can be used to make your own customised stickers
 This is the vinyl cutting maching at our fablab at MESCE.
 ![Vinyl cutting](/images/vinylcutter.jpg)
 
-![Vinyl](/images/vc1.jpg)
+![Vinyl](/images/vc7.jpg)
 
 
 ![Vinyl](/images/vc2.jpg)
