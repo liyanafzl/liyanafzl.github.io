@@ -19,23 +19,10 @@ Maintaining github pages is pretty simple. All you have to do is to follow a few
 ![GitHub Logo](/images/gp2.png)
 
 
-4. Now that your repository is ready. Create a readme file as shown.
+4. Now that your repository is ready. Create a readme file .
+5. Now you are ready to go. Open the Readme file and edit it using markdown, html or anything of your choice.
+You can follow this [link](https://guides.github.com/features/mastering-markdown/) if you need help using markdown.
 
 
 
-A few softwares were installed which would be useful in the fabrication lab. Some of the softwares that were told to be installed were:
 
-* AutoCAD ( Ex. : EagleCAD, Rhinoceros)
-It is used for creating blueprints for our designs in mind.
-
-![FABLAB class](/images/autocad1.png)
-* Cura 
-It is a 3D printing slicing application. This is the software that is used to turn our design image into a format that can be used by the 3D printer to print the corresponding 3D object. 
-![FABLAB class](/images/curascreen1.png)
-
-
-We also created accounts in various sites that may be useful :
-* GrabCAD
-* vimeo ( for sharing videos)
-* Instructables
-* Thingiverse
