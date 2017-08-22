@@ -44,19 +44,19 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 ###### Resources that can be used
 
-*GrabCAD
+* GrabCAD
 
-*vimeo ( for sharing videos)
+* vimeo ( for sharing videos)
 
-*Instructables
+* Instructables
 
-*Thingiverse
+* Thingiverse
 
-*Inkscape
+* Inkscape
 
-*Makerspace
+* Makerspace
 
-*fabmodules
+* fabmodules
 
 
 
