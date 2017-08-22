@@ -1,14 +1,12 @@
-### GITHUB PAGES AND DOCUMENTATION 
+# GITHUB PAGES AND DOCUMENTATION 
 
 Today we learnt how we could document our work and experiences through github pages and how we could essentially use them in the future. The documenting actually feels amazing. It is like writing memories that wouldn't fade with time. On a serious note, one can always record such experiences and learning and also share. I think everyone must make it a habit to document whenever we learn a new thing so that it does not get erased even if we forget.
 
 Maintaining github pages is pretty simple. All you have to do is to follow a few simple steps and you can share you're own online document to anyone anywhere. Sounds awesome , doesnn't it..
 
-<B>STEPS</B>
+## STEPS
 
-1. hghj
-2. sfdvj
-  * ksfksd
+
 
 A few softwares were installed which would be useful in the fabrication lab. Some of the softwares that were told to be installed were:
 
