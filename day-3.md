@@ -11,11 +11,11 @@ The required dimensions can be given.
 
 Next, in order to create a solid object we use the command: 
 
-** COMMAND : ** *Cap *
+<B> COMMAND : </B>
 
 In order to subract portions of the object we use the command : 
 
-** COMMAND : ** *BooleanDifference*
+<B> COMMAND : </B> *BooleanDifference*
 
 The appropriate surfaces to be subtracted and those to be kept can be selected according to our choice.
 
@@ -35,7 +35,7 @@ Once the designed object is ready we converted it into STL format through the fo
  
 Then click Save to removable drive. Now the image is ready to be fed to the 3D printer in order to print it by inserting the memory card consisting the image.
 
-** Electronics Production **
+<B> Electronics Production </B>
 
 We were given a few basic things to learn about electronics production.
 A useful tutorial can be referred by AJITH KUMAR MG.
