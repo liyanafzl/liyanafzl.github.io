@@ -68,7 +68,7 @@ Here you can view my course progress. I have described the activities done, thin
 
 * [ Introduction to FABLAB](http://liyanafzl.github.io/day-1)
 * [ Github Pages and Documentation](http://liyanafzl.github.io/githubpages)
-* [ Electronics Production and CNC](http://liyanafzl.github.io/electronics)
+* [ Electronics Production and CNC](http://liyanafzl.github.io/Electronicsproduction)
 * [Vinyl Cutting](http://liyanafzl.github.io/day-4)
 * [Screen Printing](http://liyanafzl.github.io/day-5)
 * [3D Printing](http://liyanafzl.github.io/day-6)
