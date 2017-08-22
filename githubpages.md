@@ -19,6 +19,8 @@ Maintaining github pages is pretty simple. All you have to do is to follow a few
 ![GitHub Logo](/images/gp2.png)
 
 
+4. Now that your repository is ready. Create a readme file as shown.
+
 
 
 A few softwares were installed which would be useful in the fabrication lab. Some of the softwares that were told to be installed were:
