@@ -39,7 +39,25 @@ So the first step is to design the image using any  appropriate software and the
 >What is G-code?
 GCode is the generic name for a control language for CNC (or Reprap) machines. It is a way for you to tell the machine to move to various points at a desired speed, control the spindle speed, turn on and off various coolants, and all sorts of other things. It is fairly standard, and is a useful tool.
 
-Here, I'll show you my design for the ear phone holder.
+Here, I'll show you my design for the ear phone holder using Rhinoceros.
+
+![3d printing](/images/3dscreen1.png)
+
+After you are done designing, save the file in STL format.
+
+![3d printing](/images/3dscreen2.png)
+
+
+Now you need to convert this STL file to Gcode. This can be done using the Cura software.
+
+![3d printing](/images/3dscreen3.png)
+
+![3d printing](/images/3dscreen4.png)
+
+Now your Gcode file is ready to be fed to the 3D printer. Save it in the memory card that can be inserted into the 3D printer.
+
+
+
 
 
 
