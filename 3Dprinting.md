@@ -40,6 +40,7 @@ So the first step is to design the image using any  appropriate software and the
 GCode is the generic name for a control language for CNC (or Reprap) machines. It is a way for you to tell the machine to move to various points at a desired speed, control the spindle speed, turn on and off various coolants, and all sorts of other things. It is fairly standard, and is a useful tool.
 
 Here, I'll show you my design for the ear phone holder using Rhinoceros.
+You can download the file in STL format [here.](
 
 ![3d printing](/images/3dscreen1.png)
 
