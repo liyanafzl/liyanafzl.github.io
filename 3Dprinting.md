@@ -71,7 +71,7 @@ Maintainance: to change the setting on the machine regarding nozzle size, power 
 
 After the settings are done, the machine takes a while to start printing because the material has to get heated. Then you can see the 3D printer printing your 2D design layer by layer.
 
-<video src="/images/3Dprinting.mp4" poster="3dposter.jpg" width="320" height="200" controls preload></video>
+<video src="/images/3Dprinting.mp4" poster="/images/3dposter.jpg" width="320" height="200" controls preload></video>
 
 ## File available for download
 
