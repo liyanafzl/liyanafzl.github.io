@@ -24,3 +24,23 @@ It is a 3D printing slicing application. This is the software that is used to tu
 I tried to design a ear phone holder using AutoCad and then 3D prited it using the 3D printer.
 
 
+![3d printing](/images/3d1.jpg)                                                             ![3d printing](/images/3d2.jpg)
+
+![3d printing](/images/3d3.jpg)
+
+## How to 3D print ?
+
+* STEP 1
+
+First of all you need to design the prototype using any of the appropriate softwares such as Rhinoceros, Adobe Illustrator, Solidworks etc. Why do you have to use the specific softwares ? Well you are going to turn your 2D design to a  3D model , Aren't you? This 2D image must be readable by the 3D printer. This format is the Gcode. 
+
+So the first step is to design the image using any  appropriate software and then save the image in stl format.
+
+>What is G-code?
+GCode is the generic name for a control language for CNC (or Reprap) machines. It is a way for you to tell the machine to move to various points at a desired speed, control the spindle speed, turn on and off various coolants, and all sorts of other things. It is fairly standard, and is a useful tool.
+
+Here, I'll show you my design for the ear phone holder.
+
+
+
+
