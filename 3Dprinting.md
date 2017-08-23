@@ -73,6 +73,10 @@ After the settings are done, the machine takes a while to start printing because
 
 <video src="/images/3Dprinting.mp4" poster="3dposter.jpg" width="320" height="200" controls preload></video>
 
+## File available for download
+
+[Design for ear phone holder]((http://liyanafzl.github.io/headset_al_stl.stl)
+
 
 
 
