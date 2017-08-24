@@ -33,6 +33,10 @@ The light above the "data" blinks which means that the image is recieved by the 
 ![laser cutter](/images/imagestwo/laser7.jpg)
 ![laser cutter](/images/imagestwo/laser8.jpg)
 
+## File available for download
+
+[Design for photo frame ](https://github.com/liyanafzl/liyanafzl.github.io/photo_laser.3dm)
+
 
 
 
