@@ -24,9 +24,9 @@ It is a 3D printing slicing application. This is the software that is used to tu
 I tried to design a ear phone holder using AutoCad and then 3D prited it using the 3D printer.
 
 
-![3d printing](/images/3d1.jpg)                                                             ![3d printing](/images/3d2.jpg)
+![3d printing](/images/imagestwo/3d1.jpg)                                                             ![3d printing](/images/3d2.jpg)
 
-![3d printing](/images/3d3.jpg)
+![3d printing](/images/imagestwo/3d3.jpg)
 
 ## How to 3D print ?
 
@@ -42,28 +42,28 @@ GCode is the generic name for a control language for CNC (or Reprap) machines. I
 Here, I'll show you my design for the ear phone holder using Rhinoceros.
 You can download the file in STL format [here](http://liyanafzl.github.io/headset_al_stl.stl)
 
-![3d printing](/images/3dscreen1.png)
+![3d printing](/images/imagestwo/3dscreen1.png)
 
 After you are done designing, save the file in STL format.
 
-![3d printing](/images/3dscreen2.png)
+![3d printing](/images/imagestwo/3dscreen2.png)
 
 
 Now you need to convert this STL file to Gcode. This can be done using the Cura software.
 
 The Cura tell us how much time it would take to print the object. Also we can specify the quality needed for the object ( 20%, 50%, 100% etc) depending on the strength required for the design. Supports need to be generated if necessary. That needs to be specified. After printing , these supports can be removed easily.
 
-![3d printing](/images/3dscreen3.png)
+![3d printing](/images/imagestwo/3dscreen3.png)
 
-![3d printing](/images/3dscreen4.png)
+![3d printing](/images/imagestwo/3dscreen4.png)
 
 Now your Gcode file is ready to be fed to the 3D printer. Save it in the memory card that can be inserted into the 3D printer.
 
-![3d printing](/images/3d4.jpg)
+![3d printing](/images/imagestwo/3d4.jpg)
 
 Now just rotate the button and select the file.
 
-![3d printing](/images/3d5.jpg)
+![3d printing](/images/imagestwo/3d5.jpg)
 
 Print : to select the file from the memory card
 Material : to specify what kind of material is loaded into the machine.
@@ -71,11 +71,11 @@ Maintainance: to change the setting on the machine regarding nozzle size, power 
 
 After the settings are done, the machine takes a while to start printing because the material has to get heated. Then you can see the 3D printer printing your 2D design layer by layer.
 
-<video src="/images/3Dprinting.mp4" poster="/images/3dposter.jpg" width="320" height="200" controls preload></video>
+<video src="/images/imagestwo/3Dprinting.mp4" poster="/images/imagestwo/3dposter.jpg" width="320" height="200" controls preload></video>
 
 ## File available for download
 
-[Design for ear phone holder]((http://liyanafzl.github.io/headset_al_stl.stl)
+[Design for ear phone holder](http://liyanafzl.github.io/headset_al_stl.stl)
 
 
 
