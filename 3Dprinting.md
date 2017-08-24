@@ -24,7 +24,8 @@ It is a 3D printing slicing application. This is the software that is used to tu
 I tried to design a ear phone holder using AutoCad and then 3D prited it using the 3D printer.
 
 
-![3d printing](/images/imagestwo/3d1.jpg.png)                                                             ![3d printing](/images/3d2.jpg)
+![3d printing](/images/imagestwo/3d1.jpg.png)                                                             
+![3d printing](/images/imagestwo/3d2.jpg)
 
 ![3d printing](/images/imagestwo/3d3.jpg)
 
