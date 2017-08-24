@@ -4,26 +4,26 @@ Laser cutting is pretty simple. All you need to do is design the necessary outli
 
 ![laser cutter](/images/imagestwo/laser1.jpg)
 
-* STEPS
+## STEPS
 
-1. Create a design using an appropriate software. I have used Rhinoceros.
+* Create a design using an appropriate software. I have used Rhinoceros.
 
-![laser cutter](/images/imagestwo/laserscreen1.png)
+   ![laser cutter](/images/imagestwo/laserscreen1.png)
 
-2. Then just click print on your computer that is connected to the printer. It shows a dialog box where there are 3 options:
-* Raster : used for engraving
-* Vector : used for cutting
-* Combined: used when both are to be done.
+* Then just click print on your computer that is connected to the printer. It shows a dialog box where there are 3 options:
+ >Raster : used for engraving
+ >Vector : used for cutting
+ >Combined: used when both are to be done.
 
-There are options to set the power and speed for cutting which can be changed as per need.
-Click OK.
-The light above the "data" blinks which means that the image is recieved by the printer.
+  There are options to set the power and speed for cutting which can be changed as per need.
+  Click OK.
+  The light above the "data" blinks which means that the image is recieved by the printer.
 
-![laser cutter](/images/imagestwo/laser2.jpg)
+  ![laser cutter](/images/imagestwo/laser2.jpg)
 
-3. Disable the X/Y home position and then set the position of the laser head to where it has to begin printing. Then press "set home" to trace the path where it is going to print. Press "go" to see the head tracing the path.
+* Disable the X/Y home position and then set the position of the laser head to where it has to begin printing. Then press "set home" to trace the path where it is going to print. Press "go" to see the head tracing the path.
 
-4. Now if you are satisfied , press the job and the press "go". The laser starts cutting the material as the image given to it.
+* Now if you are satisfied , press the job and the press "go". The laser starts cutting the material as the image given to it.
 
 * My final product
 
