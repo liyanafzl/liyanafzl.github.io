@@ -6,9 +6,9 @@ This is where you can connect to the quote " You can make almost anything here "
 
 The action or process of making a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession.
 
-## Softwares Required:
+## Software Required:
 
-A few softwares were installed which would be useful in the fabrication lab. Some of the softwares that were told to be installed were:
+A few software applications were installed which would be useful in the fabrication lab. Some of the softwares that were told to be installed were:
 
 * AutoCAD ( Ex. : EagleCAD, Rhinoceros)
 It is used for creating blueprints for our designs in mind.
@@ -18,6 +18,47 @@ It is used for creating blueprints for our designs in mind.
 * Cura 
 It is a 3D printing slicing application. This is the software that is used to turn our design image into a format that can be used by the 3D printer to print the corresponding 3D object. 
 ![FABLAB class](/images/curascreen1.png)
+
+###### A Guide to use the above software
+
+We learnt how to use the AutoCAD software in order to make blueprints for our designs in mind. We used Rhinoceros Corporate (version for 64-bit OS).
+First of all 2D shapes can be constructed easily by the given tools. In order to convert a 2D image to 3D image we use the following command:
+
+<B> COMMAND : </B> 
+*ExtrudeCrv *
+
+The required dimensions can be given.
+
+Next, in order to create a solid object we use the command: 
+
+<B> COMMAND : </B>
+
+*Cap*
+
+In order to subract portions of the object we use the command : 
+
+<B> COMMAND : </B> 
+
+*BooleanDifference*
+
+The appropriate surfaces to be subtracted and those to be kept can be selected according to our choice.
+
+Once the designed object is ready we converted it into STL format through the following steps:
+
+* File
+ * Export selected
+   * STL format
+     > Name the file and save it.
+  
+ Next we use the CURA software that has been installed earlier and then set it accordingly in order to print it using the 3D printer.
+ We made the following settings.
+ Profile : Fine
+ Material : PLA
+ Infill : 50%
+ Support : Use 
+ 
+Then click Save to removable drive. Now the image is ready to be fed to the 3D printer in order to print it by inserting the memory card consisting the image.
+
 
 ## My Assignment
 
