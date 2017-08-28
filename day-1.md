@@ -3,7 +3,7 @@
 
 Day 1 went well with the introduction. We got an overview of how the seven days were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more .
 
-![FABLAB class](/images/class.jpg)
+![FABLAB class](/images/class2.jpg)
 
 
 Here are some of the machines set up at our FABLAB. 
@@ -20,7 +20,4 @@ The image given below is that of the Laser printing / Engraving machine.
 
 ![FABLAB class](/images/cnc.jpg)
 
-The image given below is that of the Vinyl cutting machine.
-
-![FABLAB class](/images/vinyl.jpg)
 
