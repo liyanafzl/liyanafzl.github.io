@@ -38,7 +38,7 @@ Laser cutting is pretty simple. All you need to do is design the necessary outli
 
 ## File available for download
 
-[Design for photo frame ](https://github.com/liyanafzl/liyanafzl.github.io/photo_laser.3dm)
+[Design for photo frame ](https://github.com/liyanafzl/liyanafzl.github.io/photo_laserdxf.dxf)
 
 
 
