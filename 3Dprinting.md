@@ -26,7 +26,7 @@ First of all 2D shapes can be constructed easily by the given tools. In order to
 
 <B> COMMAND : </B> 
 
-* ExtrudeCrv *
+* ExtrudeCrv 
 
 The required dimensions can be given.
 
@@ -34,13 +34,13 @@ Next, in order to create a solid object we use the command:
 
 <B> COMMAND : </B>
 
-* Cap*
+* Cap
 
 In order to subract portions of the object we use the command : 
 
 <B> COMMAND : </B> 
 
-* BooleanDifference*
+* BooleanDifference
 
 The appropriate surfaces to be subtracted and those to be kept can be selected according to our choice.
 
