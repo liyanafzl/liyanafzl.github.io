@@ -33,6 +33,9 @@ Laser cutting is pretty simple. All you need to do is design the necessary outli
 ![laser cutter](/images/imagestwo/laser7.png)
 ![laser cutter](/images/imagestwo/laser8.png)
 
+![laser cutter](/images/imagestwo/laser9.png)
+![laser cutter](/images/imagestwo/laser10.png)
+
 ## File available for download
 
 [Design for photo frame ](https://github.com/liyanafzl/liyanafzl.github.io/photo_laser.3dm)
