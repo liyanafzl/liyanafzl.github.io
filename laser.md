@@ -33,8 +33,8 @@ Laser cutting is pretty simple. All you need to do is design the necessary outli
 ![laser cutter](/images/imagestwo/laser7.png)
 ![laser cutter](/images/imagestwo/laser8.png)
 
-![laser cutter](/images/imagestwo/laser9.png)
-![laser cutter](/images/imagestwo/laser10.png)
+![laser cutter](/images/imagestwo/laser9.jpg)
+![laser cutter](/images/imagestwo/laser10.jpg)
 
 ## File available for download
 
