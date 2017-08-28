@@ -68,14 +68,18 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 ### Course Progress
 
-Here you can view my course progress. I have described the activities done, things learned  on each day.
+Here you can view my course progress. I have described the activities done, things learned each day.
 
 * [ Introduction to FABLAB](http://liyanafzl.github.io/day-1)
+
 * [ Github Pages and Documentation](http://liyanafzl.github.io/githubpages)
+
 * [ Electronics Production and CNC](http://liyanafzl.github.io/Electronicsproduction)
+
 * [Vinyl Cutting](http://liyanafzl.github.io/vinylcutting)
-* [Screen Printing](http://liyanafzl.github.io/screenprinting)
+
 * [3D Printing](http://liyanafzl.github.io/3Dprinting)
+
 * [Laser cutting](http://liyanafzl.github.io/laser)
 
 
