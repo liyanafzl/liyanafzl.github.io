@@ -22,5 +22,5 @@ The image given below is that of the Laser printing / Engraving machine.
 
 The image given below is that of the Vinyl cutting machine.
 
-![FABLAB class](/images/cnc.jpg)
+![FABLAB class](/images/vinyl.jpg)
 
