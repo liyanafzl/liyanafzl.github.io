@@ -25,7 +25,8 @@ We learnt how to use the AutoCAD software in order to make blueprints for our de
 First of all 2D shapes can be constructed easily by the given tools. In order to convert a 2D image to 3D image we use the following command:
 
 <B> COMMAND : </B> 
-*ExtrudeCrv *
+
+* ExtrudeCrv *
 
 The required dimensions can be given.
 
@@ -33,13 +34,13 @@ Next, in order to create a solid object we use the command:
 
 <B> COMMAND : </B>
 
-*Cap*
+* Cap*
 
 In order to subract portions of the object we use the command : 
 
 <B> COMMAND : </B> 
 
-*BooleanDifference*
+* BooleanDifference*
 
 The appropriate surfaces to be subtracted and those to be kept can be selected according to our choice.
 
@@ -116,11 +117,11 @@ After the settings are done, the machine takes a while to start printing because
 ![3d printing](/images/3dprinting.gif)
 
 
-<video src="/images/3dprinting.gif" poster="/images/imagestwo/3dposter.jpg" width="320" height="200" controls preload></video>
+
 
 ## File available for download
 
-[Design for ear phone holder](http://liyanafzl.github.io/headset_al_stl.stl)
+[Design for ear phone holder ( in STL File format )](http://liyanafzl.github.io/headset_al_stl.stl)
 
 
 
