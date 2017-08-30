@@ -36,6 +36,10 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 *Instructor : Mr. Jaseel Muhammed*
 
+### Our batch 
+
+![batch](/images/IMG_20170829_230408.jpg)
+
 ### Softwares Required
 
 * AutoCAD ( I used Rhinoceroes Corporate(64-bit ))
